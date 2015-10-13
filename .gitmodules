@@ -1,0 +1,3 @@
+[submodule "node-login"]
+	path = node-login
+	url = git://github.com/braitsch/node-login.git
